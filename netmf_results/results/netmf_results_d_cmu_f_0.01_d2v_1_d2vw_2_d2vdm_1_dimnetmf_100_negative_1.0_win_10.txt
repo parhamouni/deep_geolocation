@@ -1,0 +1,2 @@
+,dataset,model_name,mean,median,acc,score,fraction,d2v,window_size,d2vdm,windownetmf,negative,dim_embedding,processing
+0,cmu,Neural Net,1271.9663228393208,960.6786053245305,16.781002638522427,0.013720316622691292,0.01,1,2,1,10,1.0,100,netmf
